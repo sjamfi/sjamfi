@@ -4682,7 +4682,7 @@ body {
 .cid-ro6NP7bRbo {
   padding-top: 135px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/education-success-stories-2000x1333.jpg");
+  background-image: url("../../../assets/images/board-1140x760.jpg");
 }
 .cid-rnatgC0tJO .navbar {
   background: #ffffff;
@@ -5173,13 +5173,13 @@ body {
 .cid-s23jp9S4kY {
   padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/coloredpencil-1348x385.jpeg");
 }
 .cid-s23jp9S4kY .title {
   margin-bottom: 2rem;
 }
 .cid-s23jp9S4kY .mbr-section-subtitle {
-  color: #000000;
+  color: #ffffff;
 }
 .cid-s23jp9S4kY a:not([href]):not([tabindex]) {
   color: #fff;
@@ -5190,6 +5190,9 @@ body {
 }
 .cid-s23jp9S4kY textarea.form-control {
   min-height: 188px;
+}
+.cid-s23jp9S4kY H2 {
+  color: #ffffff;
 }
 .cid-s23jcrNoSX .navbar {
   background: #ffffff;
