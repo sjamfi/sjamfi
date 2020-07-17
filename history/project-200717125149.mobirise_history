@@ -48,7 +48,9 @@
     "favicon": "",
     "noImageResize": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "publishType": "local",
+    "publishPath": "file:///Users/mackydayoja/Documents"
   },
   "pages": {
     "index.html": {
@@ -776,7 +778,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/main-4-900x600.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -811,11 +813,11 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/enroll-1-900x600.jpg",
-                "active": true,
-                "showButtons": false,
-                "showText": false,
-                "showTitle": false,
+                "image": "@PROJECT_PATH@/assets/images/depositphotos-28072165-xl-2015-2000x1341.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
@@ -825,8 +827,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Now accepting students for School Year 2020-2021",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"admissions.html\" data-toolbar=\"-mbrBtnMove\">ADMISSIONS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>",
-                "overlayOpacity": "0"
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary\" data-app-placeholder=\"Type Text\" href=\"admissions.html\" data-toolbar=\"-mbrBtnMove\">ADMISSIONS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>"
               }
             ]
           }
