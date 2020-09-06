@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "St. John Academy of Manila Foundation Inc.",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -48,7 +48,9 @@
     "favicon": "",
     "noImageResize": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "publishType": "local",
+    "publishPath": "file:///Volumes/THOR%20TIME%20MACHINE%201TB/UPLOAD%20GDRIVE/WORK/SJAMFI/Website"
   },
   "pages": {
     "index.html": {
@@ -794,7 +796,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/graduates-1-900x600.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -803,16 +805,16 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br><br><br><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "",
+                "title": "CONGRATULATIONS GRADUATES!",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "2019-2020 Graduates of St. John Academy of Manila Foundation, Inc. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"admissions.html\" data-toolbar=\"-mbrBtnMove\">ADMISSIONS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>",
                 "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/enroll-1-900x600.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -5189,7 +5191,7 @@
       },
       "components": [
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",

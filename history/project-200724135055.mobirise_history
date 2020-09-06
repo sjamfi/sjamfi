@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "St. John Academy of Manila Foundation Inc.",
-    "currentPage": "index.html",
+    "currentPage": "news.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
         "url": "https://fonts.googleapis.com/css?family=Cabin:400,400i,500,500i,600,600i,700,700i"
       }
     ],
-    "uniqCompNum": 52,
+    "uniqCompNum": 51,
     "versionPublish": "4.10.7",
     "favicon": "",
     "noImageResize": "",
@@ -794,7 +794,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/graduates-1-900x600.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -803,16 +803,16 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br><br><br><br>",
-                "overlay": false,
-                "contentAlign": "center",
-                "text": "",
+                "title": "CONGRATULATIONS GRADUATES!",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "2019-2020 Graduates of St. John Academy of Manila Foundation, Inc. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"admissions.html\" data-toolbar=\"-mbrBtnMove\">ADMISSIONS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>",
                 "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/enroll-1-900x600.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -5196,8 +5196,8 @@
             "postToLoad": "10",
             "facebookToken": "EAAE777VYAAMBAFXMzbN3H5Xep60Avk67W3HVd7PPuLhI8rh8hZCsqXwsa7EEMPBRXLJWMyuFO1q48kToXbZC3ZByTYdZAycBvP2orZAmZCYXZCL58AbPNZCNPZBH5ZCT7TEEodoGDrPpPHMcGIlURkiy2bZCSiZAedxARPrXWF5Bv1HF4AZDZD",
             "facebook": "@949804235459850",
-            "twitter": "sjamfi",
-            "youtube": "",
+            "twitter": "mobirise",
+            "youtube": "UCt_tncVAetpK5JeM8L-8jyw",
             "bgColorRadio": true,
             "bgColor": "#fff",
             "bgImageRadio": false,

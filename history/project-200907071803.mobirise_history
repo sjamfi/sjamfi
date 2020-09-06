@@ -48,7 +48,9 @@
     "favicon": "",
     "noImageResize": "",
     "gdpr": "",
-    "google-analytics": ""
+    "google-analytics": "",
+    "publishType": "local",
+    "publishPath": "file:///Volumes/THOR%20TIME%20MACHINE%201TB/UPLOAD%20GDRIVE/WORK/MackyFoto/SJAMFI/Website"
   },
   "pages": {
     "index.html": {
@@ -803,9 +805,9 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<br><br><br><br><br>",
+                "title": "<br><br><br><br>",
                 "overlay": false,
-                "contentAlign": "center",
+                "contentAlign": "left",
                 "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary display-4\" data-app-placeholder=\"Type Text\" href=\"admissions.html\" data-toolbar=\"-mbrBtnMove\">ADMISSIONS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"about-us.html\" data-toolbar=\"-mbrBtnMove\">ABOUT US</a>",
                 "overlayOpacity": "0.4"
@@ -5189,7 +5191,7 @@
       },
       "components": [
         {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "loadsvg": "@ADDONS_PATH@/social-feed/feed/assets/loading.svg",
           "_params": {
             "paddingTop": "4",
             "paddingBottom": "2",
